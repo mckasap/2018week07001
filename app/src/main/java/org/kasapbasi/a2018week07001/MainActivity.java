@@ -53,7 +53,6 @@ public class MainActivity extends AppCompatActivity {
                     Toast.makeText(this,"Tekrar İzni iste",Toast.LENGTH_LONG).show();
 
 
-
                 break;
             default:
 
